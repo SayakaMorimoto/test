@@ -10,5 +10,5 @@ void loop() {
   digitalWrite(outputPin, HIGH);
   delay(1000);
   digitalWrite(outputPin, LOW);
-  delay(1000);
+  delay(2000);
 }
