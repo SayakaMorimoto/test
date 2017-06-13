@@ -11,4 +11,6 @@ void loop() {
   delay(500);
   digitalWrite(outputPin, LOW);
   delay(500);
+
+  // 2017/06/13　フォークしてコメント追記してみるテスト　森本
 }
